@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+typer
+pydantic
+pyyaml
+openapi-spec-validator
+pytest
+httpx
